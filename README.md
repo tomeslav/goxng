@@ -1,7 +1,12 @@
 goxng
 =====
 
-A basic xng encoding library
+A basic xng encoding library.
+
+Xng is a simple image format based on svg for moving images. Unlike all the clever gif repleacement formats, xng can be displayed in any modern browser.
+
+Xng is an idea by Jasper St. Pierre. See his blog entry for more details :
+http://blog.mecheye.net/2014/10/xng-gifs-but-better-and-also-magical/
 
 A sample main program : 
 
