@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/xml"
 	"fmt"
-	"goxng/base64"
+	"github.com/tomeslav/goxng/base64"
 	"image"
 	_ "image/gif"
 	_ "image/jpeg"
